@@ -4,6 +4,8 @@ I'm Thomas. This is my ✨professional✨ GitHub account, which I use to host my
 - I tokenise stuff, and if you're not careful, I will tokenise you next 💀
 - Contact me using the information on [this page](https://www.kuleuven.be/wieiswie/nl/person/00131706).
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=bauwenst&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <!---
 bauwenst/bauwenst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
